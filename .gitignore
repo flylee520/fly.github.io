@@ -1,0 +1,10 @@
+*.settings
+/target
+*.classpath
+*.project
+.idea/
+*.iml
+*.properties
+META-INF/
+out/
+target/
